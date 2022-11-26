@@ -1,18 +1,12 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
-
+Este es una practica para refrescar la forma basica en la cuel se trabaja con funciones
+*/
 package com.mycompany.proyecto2;
 import java.io.BufferedReader;
 import java.io.EOFException;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-/**
- *
- * @author Dell
- */
 public class Proyecto2 {
 
     public static void main(String[] args) throws IOException {
