@@ -3,7 +3,7 @@ Este es una practica para refrescar la forma basica en la cuel se trabaja con fu
 ejemplo de un comprador en una tienda de ropa, que indica la cantidad de prendas que esta comprando, luego ingresa el valor de cada una de las prendas,
 dependiendo de la cantidad de prendas se le da un descuento, y se aplica un "impuesto" del 2% de manera estandar para el ejercicio.
 */
-package com.mycompany.proyecto2;
+
 import java.io.BufferedReader;
 import java.io.EOFException;
 import java.io.IOException;
